@@ -1,0 +1,31 @@
+{
+  "name": "exam-app",
+  "version": "1.0.0",
+  "description": "A Multiple choice question and answer application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smf26/Exam-App.git"
+  },
+  "keywords": [
+    "Html",
+    "Css",
+    "Javascript"
+  ],
+  "author": "Shepherd Magwagwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smf26/Exam-App/issues"
+  },
+  "homepage": "https://github.com/Smf26/Exam-App#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify-es": "^2.0.0"
+  }
+}
